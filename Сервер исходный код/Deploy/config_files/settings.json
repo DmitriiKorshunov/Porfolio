@@ -1,0 +1,18 @@
+{
+  "port_chat": 100,
+  "port_docs": 200,
+  "db_name": "main",
+  "host": "0.0.0.0",
+  "signatures_path": "",
+  "notif_rec": [
+    "955d21ed-13aa-414c-ad9a-35411ba6f30a", "ff846147-2705-4790-9294-aa41a0ad2e6f"
+  ],
+  "ignore_mass_notif_rec": [
+
+  ],
+  "auto_reboot_time": {
+    "hour": 17,
+    "minute": 17
+  }
+}
+

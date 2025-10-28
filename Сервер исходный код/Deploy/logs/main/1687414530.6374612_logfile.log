@@ -1,0 +1,17 @@
+INFO 2023-06-22 09:15:33,040 - id_process: 16874145330409539  -> Start process update_docs_list with "process" return type. 
+user: 4e6d8eea-691b-442f-ab83-e51941b5c024 
+IP: 127.0.0.1
+INFO 2023-06-22 09:15:33,049 - id_process: 16874145330409539 -> Result process:
+added: 0 
+smart_update: 0
+full_update: 0
+error: None
+time: 0:00:00.008051 error_pdf: None
+INFO 2023-06-22 09:15:39,451 - id_process: 16874145394515424 -> Start process list all users
+INFO 2023-06-22 09:15:39,455 - id_process: 16874145394515424 -> Process return JSON
+INFO 2023-06-22 09:15:42,944 - id_process: 1687414542944822 -> Start process list all users
+INFO 2023-06-22 09:15:42,947 - id_process: 1687414542944822 -> Process return JSON
+INFO 2023-06-22 09:15:42,972 - id_process: 16874145429726703 -> Start process list all docs
+WARNING 2023-06-22 09:15:42,975 - Json-process doc was kill. Except.
+INFO 2023-06-22 09:15:42,991 - id_process: 1687414542991292 -> Start process list all users
+INFO 2023-06-22 09:15:42,994 - id_process: 1687414542991292 -> Process return JSON

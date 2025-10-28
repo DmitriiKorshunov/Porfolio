@@ -1,0 +1,19 @@
+INFO 2023-06-22 13:38:58,351 - id_process: 16874303383503473  -> Start process update_docs_list with "process" return type. 
+user: bb2cbb0e-284c-40f2-9e35-b0871639e491 
+IP: 127.0.0.1
+INFO 2023-06-22 13:38:58,371 - id_process: 16874303383503473 -> Result process:
+added: 0 
+smart_update: 0
+full_update: 0
+error: None
+time: 0:00:00.020026 error_pdf: None
+INFO 2023-06-22 13:39:06,618 - id_process: 16874303466187396 -> Start process list all users
+INFO 2023-06-22 13:39:06,628 - id_process: 16874303466187396 -> Process return JSON
+INFO 2023-06-22 13:39:06,645 - id_process: 16874303466457253 -> Start process list all users
+INFO 2023-06-22 13:39:06,650 - id_process: 16874303466457253 -> Process return JSON
+INFO 2023-06-22 13:39:06,722 - id_process: 16874303467228215 -> Start process list all docs
+INFO 2023-06-22 13:39:06,733 - id_process: 16874303467228215 -> Process return JSON
+INFO 2023-06-22 13:39:06,761 - id_process: 16874303467613637 -> Start process list all users
+INFO 2023-06-22 13:39:06,767 - id_process: 16874303467613637 -> Process return JSON
+INFO 2023-06-22 13:39:10,196 - id_process: 16874303501966324 -> Start process uuid_doc_download from ip: 127.0.0.1
+INFO 2023-06-22 13:39:10,206 - id_process: 16874303501966324 -> Return doc without resolution

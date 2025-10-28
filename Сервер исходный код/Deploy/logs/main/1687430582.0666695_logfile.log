@@ -1,0 +1,8 @@
+INFO 2023-06-22 13:43:05,647 - id_process: 16874305856479895 -> Start process uuid_doc_download from ip: 127.0.0.1
+INFO 2023-06-22 13:43:05,679 - id_process: 16874305856479895 -> Try gen resolution in uuid_doc_download module
+INFO 2023-06-22 13:43:05,679 - id_process: 16874305856479895 -> Return doc without resolution
+INFO 2023-06-22 13:43:31,056 - id_process: 16874306110562563  -> Start process update_docs_list with "process" return type. 
+user: bb2cbb0e-284c-40f2-9e35-b0871639e491 
+IP: 127.0.0.1
+INFO 2023-06-22 13:43:31,058 - id_process: 16874306110584822 -> Start process list all users
+INFO 2023-06-22 13:43:31,065 - id_process: 16874306110584822 -> Process return JSON

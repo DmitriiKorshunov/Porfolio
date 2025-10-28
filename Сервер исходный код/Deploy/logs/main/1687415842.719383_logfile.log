@@ -1,0 +1,14 @@
+INFO 2023-06-22 09:37:25,228 - id_process: 16874158452287812  -> Start process update_docs_list with "process" return type. 
+user: 4e6d8eea-691b-442f-ab83-e51941b5c024 
+IP: 127.0.0.1
+INFO 2023-06-22 09:37:25,236 - id_process: 16874158452287812 -> Result process:
+added: 0 
+smart_update: 0
+full_update: 0
+error: None
+time: 0:00:00.008053 error_pdf: None
+INFO 2023-06-22 09:37:27,851 - id_process: 16874158478516808 -> Start process list all users
+INFO 2023-06-22 09:37:27,855 - id_process: 16874158478516808 -> Process return JSON
+INFO 2023-06-22 09:37:57,573 - id_process: 16874158775731132 -> Start process update_users_list from ip: 127.0.0.1
+INFO 2023-06-22 09:37:58,434 - id_process: 16874158784340131 -> Start process list all users
+INFO 2023-06-22 09:37:58,444 - id_process: 16874158784340131 -> Process return JSON

@@ -1,0 +1,25 @@
+INFO 2023-06-22 13:44:32,497 - id_process: 16874306724979455 -> Start process list all users
+INFO 2023-06-22 13:44:32,525 - id_process: 16874306724979455 -> Process return JSON
+INFO 2023-06-22 13:44:36,409 - id_process: 1687430676409594 -> Start process list all users
+INFO 2023-06-22 13:44:36,415 - id_process: 1687430676409594 -> Process return JSON
+INFO 2023-06-22 13:44:39,109 - id_process: 16874306791099932 -> Start process list all users
+INFO 2023-06-22 13:44:39,115 - id_process: 16874306791099932 -> Process return JSON
+INFO 2023-06-22 13:44:44,828 - id_process: 1687430684828139 -> Start process list all users
+INFO 2023-06-22 13:44:44,832 - id_process: 1687430684828139 -> Process return JSON
+INFO 2023-06-22 13:44:44,855 - id_process: 16874306848557923 -> Start process list all users
+INFO 2023-06-22 13:44:44,859 - id_process: 16874306848557923 -> Process return JSON
+INFO 2023-06-22 13:44:44,921 - id_process: 16874306849212408 -> Start process list all docs
+INFO 2023-06-22 13:44:44,930 - id_process: 16874306849212408 -> Process return JSON
+INFO 2023-06-22 13:44:44,957 - id_process: 16874306849577367 -> Start process list all users
+INFO 2023-06-22 13:44:44,962 - id_process: 16874306849577367 -> Process return JSON
+INFO 2023-06-22 13:45:01,309 - id_process: 16874307013090076  -> Start process update_docs_list with "process" return type. 
+user: 31b58f80-de4f-4740-8164-010443c4ba42 
+IP: 127.0.0.1
+INFO 2023-06-22 13:45:01,311 - id_process: 16874307013111637 -> Start process list all users
+INFO 2023-06-22 13:45:01,317 - id_process: 16874307013111637 -> Process return JSON
+INFO 2023-06-22 13:45:01,348 - id_process: 16874307013090076 -> Result process:
+added: 0 
+smart_update: 0
+full_update: 0
+error: None
+time: 0:00:00.038770 error_pdf: None

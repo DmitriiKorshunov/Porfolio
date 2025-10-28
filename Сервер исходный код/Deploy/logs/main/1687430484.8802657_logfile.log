@@ -1,0 +1,39 @@
+INFO 2023-06-22 13:41:26,883 - id_process: 1687430486883728 -> Start process list all users
+INFO 2023-06-22 13:41:26,910 - id_process: 1687430486883728 -> Process return JSON
+INFO 2023-06-22 13:41:34,492 - id_process: 16874304944922345 -> Start process list all users
+INFO 2023-06-22 13:41:34,497 - id_process: 16874304944922345 -> Process return JSON
+INFO 2023-06-22 13:41:34,513 - id_process: 16874304945130975 -> Start process list all users
+INFO 2023-06-22 13:41:34,518 - id_process: 16874304945130975 -> Process return JSON
+INFO 2023-06-22 13:41:34,577 - id_process: 16874304945766144 -> Start process list all docs
+INFO 2023-06-22 13:41:34,585 - id_process: 16874304945766144 -> Process return JSON
+INFO 2023-06-22 13:41:34,621 - id_process: 16874304946201122 -> Start process list all users
+INFO 2023-06-22 13:41:34,626 - id_process: 16874304946201122 -> Process return JSON
+INFO 2023-06-22 13:41:49,834 - id_process: 16874305098344681 -> Start process create_new_file_pdf 
+user: 0
+IP: 0.0.0.0
+INFO 2023-06-22 13:41:49,835 - id_process: 16874305098344681 -> Creating file... 
+INFO 2023-06-22 13:41:49,836 - id_process: 16874305098344681 -> File added. 
+name: 5bfe2954-4604-4aff-912f-eee787d513b0
+INFO 2023-06-22 13:41:49,852 - id_process: 16874305098520768 -> Start process list all users
+INFO 2023-06-22 13:41:49,856 - id_process: 16874305098520768 -> Process return JSON
+INFO 2023-06-22 13:41:52,891 - id_process: 1687430512891553  -> Start process update_docs_list with "process" return type. 
+user: 31b58f80-de4f-4740-8164-010443c4ba42 
+IP: 127.0.0.1
+INFO 2023-06-22 13:41:52,893 - id_process: 1687430512891553 -> Result process:
+added: 0 
+smart_update: 0
+full_update: 0
+error: None
+time: 0:00:00.002161 error_pdf: None
+INFO 2023-06-22 13:41:56,215 - id_process: 1687430516215359 -> Start process list all users
+INFO 2023-06-22 13:41:56,220 - id_process: 1687430516215359 -> Process return JSON
+INFO 2023-06-22 13:42:01,163 - id_process: 16874305211637871 -> Start process list all users
+INFO 2023-06-22 13:42:01,168 - id_process: 16874305211637871 -> Process return JSON
+INFO 2023-06-22 13:42:01,183 - id_process: 16874305211838949 -> Start process list all users
+INFO 2023-06-22 13:42:01,187 - id_process: 16874305211838949 -> Process return JSON
+INFO 2023-06-22 13:42:01,249 - id_process: 16874305212492936 -> Start process list all docs
+INFO 2023-06-22 13:42:01,254 - id_process: 16874305212492936 -> Process return JSON
+INFO 2023-06-22 13:42:01,282 - id_process: 16874305212829902 -> Start process list all users
+INFO 2023-06-22 13:42:01,287 - id_process: 16874305212829902 -> Process return JSON
+INFO 2023-06-22 13:42:04,749 - id_process: 16874305247492926 -> Start process uuid_doc_download from ip: 127.0.0.1
+INFO 2023-06-22 13:42:04,752 - id_process: 16874305247492926 -> Return doc without resolution
